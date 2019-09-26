@@ -1,4 +1,4 @@
-# autohash Team
+# 2019上海万向区块链周优秀作品展示 by autohash Team
 Hackthon of the International Blockchain Week in Shanghai 2019
 
 基于区块链的第四代 UBI 驾驶行为关联车险产品
